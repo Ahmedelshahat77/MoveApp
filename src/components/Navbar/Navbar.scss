@@ -1,0 +1,11 @@
+@import "../../index.scss";
+.bgNavbar {
+  background-color: $lightBgColor;
+  .navbar-toggler:focus {
+    border: 2px solid #fff;
+  }
+  .burgr {
+    color: #fff;
+    font-size: 28px;
+  }
+}
